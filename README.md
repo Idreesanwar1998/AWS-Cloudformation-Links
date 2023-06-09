@@ -4,7 +4,7 @@ When writing Cloudformation templates it is a common requirement to view the doc
 
 To simplify this process, the AWS Cloudformation Links extension provides a hover feature which shows a link to the AWS documentation when you hover over the Type field of your resources in Cloudformation.
 
-![Demo](https://github.com/Idreesanwar1998/vscode-public-assets/blob/main/video.gif?raw=true)
+![Demo](https://github.com/Idreesanwar1998/AWS-Cloudformation-Links/blob/main/assets/videos/video.gif?raw=true)
 
 ## Known Issues
 
