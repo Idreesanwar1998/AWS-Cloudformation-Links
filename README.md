@@ -8,9 +8,9 @@ To simplify this process, the AWS Cloudformation Links extension provides a hove
 
 The following resources are currently not supported by the AWS Cloudformation Links extension.
 
-- AWS::Serverless::Function
-- AWS::CloudFormation::CustomResource
-- AWS::S3::BucketPolicy
-- AWS::EC2::SecurityGroup
-- AWS::EC2::SecurityGroupIngress
-- AWS::EC2::VPCGatewayAttachment
+-   AWS::Serverless::Function
+-   AWS::CloudFormation::CustomResource
+-   AWS::S3::BucketPolicy
+-   AWS::EC2::SecurityGroup
+-   AWS::EC2::SecurityGroupIngress
+-   AWS::EC2::VPCGatewayAttachment

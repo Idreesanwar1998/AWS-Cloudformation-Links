@@ -1,0 +1,20 @@
+Type: AWS::ACMPCA::Certificate
+Type: AWS::ACMPCA::CertificateAuthority
+Type: AWS::ACMPCA::CertificateAuthorityActivation
+Type: AWS::ACMPCA::Permission
+Type: AWS::Amplify::App
+Type: AWS::Amplify::Branch
+Type: AWS::Amplify::Domain
+Type: AWS::AmplifyUIBuilder::Component
+Type: AWS::AmplifyUIBuilder::Form
+Type: AWS::AmplifyUIBuilder::Theme
+Type: AWS::ApiGateway::Account
+Type: AWS::ApiGateway::ApiKey
+Type: AWS::ApiGateway::Authorizer
+Type: AWS::ApiGateway::BasePathMapping
+Type: AWS::ApiGateway::ClientCertificate
+Type: 
+Type: 
+Type: 
+Type: 
+Type: 
