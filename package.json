@@ -2,7 +2,7 @@
     "name": "aws-cloudformation-links",
     "displayName": "aws cloudformation links",
     "description": "get links to aws resource documentation in your YAML templates by hovering over the types",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "IdreesAnwar",
     "icon": "assets/images/icon.png",
     "engines": {
